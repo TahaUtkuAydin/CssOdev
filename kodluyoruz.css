@@ -1,0 +1,30 @@
+h1     {
+    color: brown;
+    text-align: center;
+}
+nav 
+       {
+    justify-content: center;
+    display: flex;
+    gap: 20px;
+}
+.center {
+    
+    text-align: center;
+}
+ul {
+    display:inline-block;
+    text-align: start;
+}
+article {
+    text-align: center;
+    align-items: center;
+   
+}
+ol {
+    text-align: center;
+    justify-content: center;
+    display: inline-block;
+    
+   
+}
